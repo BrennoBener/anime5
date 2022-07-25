@@ -71,7 +71,7 @@ function App() {
   return (
     <div className="App backgrounImg">
       <nav>
-        <h1>Qual Personagem de One</h1>
+        <h1>Qual Personagem de One?</h1>
       </nav>
       <AppContext.Provider
         value={{
