@@ -36,7 +36,6 @@ gaban
 monet
 vergo
 sugar
-issho
 kyros
 raizo
 pedro
